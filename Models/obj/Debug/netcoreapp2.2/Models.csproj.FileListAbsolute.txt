@@ -1,0 +1,11 @@
+C:\Users\WonKat\RiderProjects\int20h\Models\bin\Debug\netcoreapp2.2\Models.deps.json
+C:\Users\WonKat\RiderProjects\int20h\Models\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\WonKat\RiderProjects\int20h\Models\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Users\WonKat\RiderProjects\int20h\Models\obj\Debug\netcoreapp2.2\Models.csprojAssemblyReference.cache
+C:\Users\WonKat\RiderProjects\int20h\Models\obj\Debug\netcoreapp2.2\Models.csproj.CoreCompileInputs.cache
+C:\Users\WonKat\RiderProjects\int20h\Models\obj\Debug\netcoreapp2.2\Models.AssemblyInfoInputs.cache
+C:\Users\WonKat\RiderProjects\int20h\Models\obj\Debug\netcoreapp2.2\Models.AssemblyInfo.cs
+C:\Users\WonKat\RiderProjects\int20h\Models\obj\Debug\netcoreapp2.2\Models.dll
+C:\Users\WonKat\RiderProjects\int20h\Models\obj\Debug\netcoreapp2.2\Models.pdb
+C:\Users\WonKat\RiderProjects\int20h\Models\bin\Debug\netcoreapp2.2\Models.runtimeconfig.json
+C:\Users\WonKat\RiderProjects\int20h\Models\bin\Debug\netcoreapp2.2\Models.runtimeconfig.dev.json

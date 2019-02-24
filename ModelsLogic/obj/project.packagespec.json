@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\WonKat\\RiderProjects\\int20h\\ModelsLogic\\ModelsLogic.csproj",
+    "projectName": "ModelsLogic",
+    "projectPath": "C:\\Users\\WonKat\\RiderProjects\\int20h\\ModelsLogic\\ModelsLogic.csproj",
+    "outputPath": "C:\\Users\\WonKat\\RiderProjects\\int20h\\ModelsLogic\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "C:\\Users\\WonKat\\RiderProjects\\int20h\\Models\\Models.csproj": {
+            "projectPath": "C:\\Users\\WonKat\\RiderProjects\\int20h\\Models\\Models.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

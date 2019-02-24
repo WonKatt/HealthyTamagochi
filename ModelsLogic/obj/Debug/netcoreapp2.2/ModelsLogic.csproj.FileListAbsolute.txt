@@ -1,0 +1,14 @@
+C:\Users\WonKat\RiderProjects\int20h\ModelsLogic\bin\Debug\netcoreapp2.2\ModelsLogic.deps.json
+C:\Users\WonKat\RiderProjects\int20h\ModelsLogic\bin\Debug\netcoreapp2.2\ModelsLogic.dll
+C:\Users\WonKat\RiderProjects\int20h\ModelsLogic\bin\Debug\netcoreapp2.2\ModelsLogic.pdb
+C:\Users\WonKat\RiderProjects\int20h\ModelsLogic\obj\Debug\netcoreapp2.2\ModelsLogic.csprojAssemblyReference.cache
+C:\Users\WonKat\RiderProjects\int20h\ModelsLogic\obj\Debug\netcoreapp2.2\ModelsLogic.csproj.CoreCompileInputs.cache
+C:\Users\WonKat\RiderProjects\int20h\ModelsLogic\obj\Debug\netcoreapp2.2\ModelsLogic.AssemblyInfoInputs.cache
+C:\Users\WonKat\RiderProjects\int20h\ModelsLogic\obj\Debug\netcoreapp2.2\ModelsLogic.AssemblyInfo.cs
+C:\Users\WonKat\RiderProjects\int20h\ModelsLogic\obj\Debug\netcoreapp2.2\ModelsLogic.dll
+C:\Users\WonKat\RiderProjects\int20h\ModelsLogic\obj\Debug\netcoreapp2.2\ModelsLogic.pdb
+C:\Users\WonKat\RiderProjects\int20h\ModelsLogic\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\WonKat\RiderProjects\int20h\ModelsLogic\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\WonKat\RiderProjects\int20h\ModelsLogic\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Users\WonKat\RiderProjects\int20h\ModelsLogic\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+C:\Users\WonKat\RiderProjects\int20h\ModelsLogic\obj\Debug\netcoreapp2.2\ModelsLogic.csproj.CopyComplete

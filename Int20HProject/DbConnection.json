@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings" : {
+    "TeencyBarker" : "Host=ec2-54-217-208-105.eu-west-1.compute.amazonaws.com;Port=5432;Database=dc4kq8ff44aqf1;Username=sytspnznllyzpo;Password=d70ad0cd4a4302f244429edc202ad11437a10518a4aed85f5dcc915b8546f459;SslMode=Require;TrustServerCertificate=true;UseSslStream=true;"
+  }
+}
