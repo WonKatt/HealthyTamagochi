@@ -66,7 +66,7 @@ namespace ModelsLogic.ModelLogicRealization
                 if (!string.IsNullOrWhiteSpace(jsonSchema))
                 {
                     var responseObject = ParseJson(jsonSchema);
-                    if (responseObject.Message != null)
+                    if (responseObject.Message == null)
                     {
                         var searchedList = new List<SearchedFoodResult>();
                         foreach (var nutrition in responseObject.Foods)

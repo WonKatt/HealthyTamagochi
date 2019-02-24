@@ -6,7 +6,7 @@ using ModelsLogic.IModelLogic;
 
 namespace Int20HProject.Controllers
 {  
-    [Route("/api/Nutrition/[action]")]
+    [Route("/api/[controller]/[action]")]
     public class UserInfoController : Controller
     {
         private readonly INutritionApi _nutritionApi;
