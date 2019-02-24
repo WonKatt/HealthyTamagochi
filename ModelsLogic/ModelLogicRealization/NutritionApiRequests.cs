@@ -72,7 +72,7 @@ namespace ModelsLogic.ModelLogicRealization
                         foreach (var nutrition in responseObject.Foods)
                         {
                             searchedList.Add(new SearchedFoodResult
-                            {
+                            {                                
                                 FoodName = nutrition.Food_name,
                                 NfP = nutrition.Nf_p,
                                 NfCalories = nutrition.Nf_calories,
@@ -86,7 +86,8 @@ namespace ModelsLogic.ModelLogicRealization
                                 NfTotalCarbohydrate = nutrition.Nf_total_carbohydrate,
                                 ServingQty = nutrition.Serving_qty,
                                 ServingWeightGrams = nutrition.Serving_weight_grams,
-                                UserSearchesId = searchId
+                                UserSearchesId = searchId,
+                                
                             });
                         }
                         await _userFoodLogic.AddSearchedFoodList(searchedList);

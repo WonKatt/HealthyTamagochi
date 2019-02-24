@@ -27,13 +27,9 @@ namespace ModelsLogic.ModelLogicRealization
             await _context.SaveChangesAsync();
         }
 
-        public SearchedFoodResult GetResultsForDay(List<UserSearches> userSearcheses)
+        public SearchedFoodResult GetMaxResultsForDay(List<UserSearches> userSearcheses)
         {
-            var searchesList = new List<SearchedFoodResult>();
-            foreach (var searches in userSearcheses)
-            {
-                searchesList.AddRange(searches.SearchedFoodResults);
-            }
+            var searchesList= GetAllResultsPerDay(userSearcheses);
             if (searchesList.Count != 0)
             {
              return new SearchedFoodResult()
@@ -54,6 +50,16 @@ namespace ModelsLogic.ModelLogicRealization
             {
                 return null;
             }                
+        }
+
+        public List<SearchedFoodResult> GetAllResultsPerDay(List<UserSearches> userSearcheses)
+        {
+            var searchesList = new List<SearchedFoodResult>();
+            foreach (var searches in userSearcheses)
+            {
+                searchesList.AddRange(searches.SearchedFoodResults);
+            }
+            return searchesList;
         }
     }
 }

@@ -10,121 +10,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+            <state relative-caret-position="-335">
+              <caret line="29" column="67" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="67" />
               <folding>
-                <marker date="1550974822113" expanded="true" signature="6:133" ph="..." />
-                <marker date="1550974822113" expanded="true" signature="170:2388" ph="{...}" />
-                <marker date="1550974822113" expanded="true" signature="265:2386" ph="{...}" />
-                <marker date="1550974822113" expanded="true" signature="718:930" ph="{...}" />
-                <marker date="1550974822113" expanded="true" signature="1049:1644" ph="{...}" />
-                <marker date="1550974822113" expanded="true" signature="1378:1633" ph="{...}" />
-                <marker date="1550974822113" expanded="true" signature="1879:2141" ph="{...}" />
-                <marker date="1550974822113" expanded="true" signature="1956:2104" ph="{...}" />
-                <marker date="1550974822113" expanded="true" signature="2230:2380" ph="{...}" />
-                <marker date="1550974822113" expanded="true" signature="2337:2369" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ModelsLogic/IModelLogic/INutritionApi.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-              <folding>
-                <marker date="1550962637651" expanded="true" signature="64:185" ph="{...}" />
-                <marker date="1550962637651" expanded="true" signature="101:183" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/NutritionApiRequests.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-62">
-              <caret line="68" column="48" selection-start-line="68" selection-start-column="48" selection-end-line="68" selection-end-column="48" />
-              <folding>
-                <marker date="1550975335633" expanded="false" signature="6:345" ph="..." />
-                <marker date="1550975335633" expanded="true" signature="390:4420" ph="{...}" />
-                <marker date="1550975335633" expanded="true" signature="444:4418" ph="{...}" />
-                <marker date="1550975335633" expanded="true" signature="935:1165" ph="{...}" />
-                <marker date="1550975335633" expanded="true" signature="1228:2249" ph="{...}" />
-                <marker date="1550975335633" expanded="true" signature="1312:1639" ph="{...}" />
-                <marker date="1550975335633" expanded="true" signature="2312:2418" ph="{...}" />
-                <marker date="1550975335633" expanded="true" signature="2501:4412" ph="{...}" />
-                <marker date="1550975335633" expanded="true" signature="2567:4402" ph="{...}" />
-                <marker date="1550975335633" expanded="true" signature="2798:4388" ph="{...}" />
-                <marker date="1550975335633" expanded="true" signature="2936:4370" ph="{...}" />
-                <marker date="1550975335633" expanded="true" signature="3105:4268" ph="{...}" />
-                <marker date="1550975335633" expanded="true" signature="3228:4240" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Int20HProject/Model/DataPerDay.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-              <folding>
-                <marker date="1550972100423" expanded="true" signature="29:262" ph="{...}" />
-                <marker date="1550972100423" expanded="true" signature="59:260" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ModelsLogic/IModelLogic/ISearchedFoodLogic.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-              <folding>
-                <marker date="1550968769149" expanded="false" signature="6:77" ph="..." />
-                <marker date="1550968769149" expanded="true" signature="112:321" ph="{...}" />
-                <marker date="1550968769149" expanded="true" signature="154:319" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/SearchedFoodLogic.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-              <folding>
-                <marker date="1550968769170" expanded="false" signature="6:218" ph="..." />
-                <marker date="1550968769170" expanded="true" signature="263:2092" ph="{...}" />
-                <marker date="1550968769170" expanded="true" signature="319:2090" ph="{...}" />
-                <marker date="1550968769170" expanded="true" signature="443:495" ph="{...}" />
-                <marker date="1550968769170" expanded="true" signature="730:884" ph="{...}" />
-                <marker date="1550968769170" expanded="true" signature="971:2084" ph="{...}" />
-                <marker date="1550968769170" expanded="true" signature="1097:1194" ph="{...}" />
-                <marker date="1550968769170" expanded="true" signature="1235:1984" ph="{...}" />
-                <marker date="1550968769170" expanded="true" signature="1308:1966" ph="{...}" />
-                <marker date="1550968769170" expanded="true" signature="2001:2058" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ModelsLogic/IModelLogic/IUserSearchesLogic.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-              <folding>
-                <marker date="1550971386897" expanded="false" signature="6:77" ph="..." />
-                <marker date="1550971386897" expanded="true" signature="112:388" ph="{...}" />
-                <marker date="1550971386897" expanded="true" signature="154:386" ph="{...}" />
+                <marker date="1550982656464" expanded="true" signature="6:186" ph="..." />
+                <marker date="1550982656464" expanded="true" signature="223:3225" ph="{...}" />
+                <marker date="1550982656464" expanded="true" signature="318:3223" ph="{...}" />
+                <marker date="1550982656464" expanded="true" signature="771:983" ph="{...}" />
+                <marker date="1550982656464" expanded="true" signature="1102:1700" ph="{...}" />
+                <marker date="1550982656464" expanded="true" signature="1434:1689" ph="{...}" />
+                <marker date="1550982656464" expanded="true" signature="1925:2180" ph="{...}" />
+                <marker date="1550982656464" expanded="true" signature="2008:2156" ph="{...}" />
+                <marker date="1550982656464" expanded="true" signature="2263:2462" ph="{...}" />
+                <marker date="1550982656464" expanded="true" signature="2556:2770" ph="{...}" />
+                <marker date="1550982656464" expanded="true" signature="2663:2749" ph="{...}" />
+                <marker date="1550982656464" expanded="true" signature="2870:3207" ph="{...}" />
+                <marker date="1550982656464" expanded="true" signature="2994:3186" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -133,7 +37,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/UserSearchesLogic.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
+            <state relative-caret-position="250">
               <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
               <folding>
                 <marker date="1550971386909" expanded="false" signature="6:204" ph="..." />
@@ -149,14 +53,111 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ModelsLogic/IModelLogic/IUserInfoLogic.cs">
+        <entry file="file://$PROJECT_DIR$/Int20HProject/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+            <state relative-caret-position="28">
+              <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
               <folding>
-                <marker date="1550972695821" expanded="false" signature="6:77" ph="..." />
-                <marker date="1550972695821" expanded="true" signature="112:330" ph="{...}" />
-                <marker date="1550972695821" expanded="true" signature="150:328" ph="{...}" />
+                <marker date="1550964450484" expanded="false" signature="6:542" ph="..." />
+                <marker date="1550964450484" expanded="true" signature="567:2394" ph="{...}" />
+                <marker date="1550964450484" expanded="true" signature="594:2392" ph="{...}" />
+                <marker date="1550964450484" expanded="true" signature="656:897" ph="{...}" />
+                <marker date="1550964450484" expanded="true" signature="1124:1778" ph="{...}" />
+                <marker date="1550964450484" expanded="true" signature="1278:1460" ph="{...}" />
+                <marker date="1550964450484" expanded="true" signature="1966:2386" ph="{...}" />
+                <marker date="1550964450484" expanded="true" signature="2013:2090" ph="{...}" />
+                <marker date="1550964450484" expanded="true" signature="2107:2310" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Int20HProject/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding>
+                <marker date="1550927595616" expanded="false" signature="6:255" ph="..." />
+                <marker date="1550927595616" expanded="true" signature="280:607" ph="{...}" />
+                <marker date="1550927595616" expanded="true" signature="307:605" ph="{...}" />
+                <marker date="1550927595616" expanded="true" signature="360:434" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Int20HProject/Model/AllInformationAboutPFC.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <folding>
+                <marker date="1550982211087" expanded="true" signature="29:261" ph="{...}" />
+                <marker date="1550982211087" expanded="true" signature="71:259" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Int20HProject/Model/CcalPerDay.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+              <folding>
+                <marker date="1550980488393" expanded="true" signature="29:159" ph="{...}" />
+                <marker date="1550980488393" expanded="true" signature="59:157" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/SearchedFoodResult.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="30" />
+              <folding>
+                <marker date="1550956636439" expanded="false" signature="6:106" ph="..." />
+                <marker date="1550956636439" expanded="true" signature="124:1019" ph="{...}" />
+                <marker date="1550956636439" expanded="true" signature="198:1017" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModelsLogic/IModelLogic/ISearchedFoodLogic.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="88" selection-start-line="10" selection-start-column="88" selection-end-line="10" selection-end-column="88" />
+              <folding>
+                <marker date="1550980858286" expanded="false" signature="6:77" ph="..." />
+                <marker date="1550980858286" expanded="true" signature="112:413" ph="{...}" />
+                <marker date="1550980858286" expanded="true" signature="154:411" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/SearchedFoodLogic.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="54" column="15" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="94" />
+              <folding>
+                <marker date="1550980858307" expanded="false" signature="6:218" ph="..." />
+                <marker date="1550980858307" expanded="true" signature="263:2311" ph="{...}" />
+                <marker date="1550980858307" expanded="true" signature="319:2309" ph="{...}" />
+                <marker date="1550980858307" expanded="true" signature="443:495" ph="{...}" />
+                <marker date="1550980858307" expanded="true" signature="730:884" ph="{...}" />
+                <marker date="1550980858307" expanded="true" signature="974:1941" ph="{...}" />
+                <marker date="1550980858307" expanded="true" signature="1092:1841" ph="{...}" />
+                <marker date="1550980858307" expanded="true" signature="1165:1823" ph="{...}" />
+                <marker date="1550980858307" expanded="true" signature="1858:1915" ph="{...}" />
+                <marker date="1550980858307" expanded="true" signature="2037:2303" ph="{...}" />
+                <marker date="1550980858307" expanded="true" signature="2163:2260" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -165,15 +166,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/UserInfoLogic.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="47" />
+            <state relative-caret-position="390">
+              <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
               <folding>
-                <marker date="1550972695800" expanded="false" signature="6:204" ph="..." />
-                <marker date="1550972695800" expanded="true" signature="249:966" ph="{...}" />
-                <marker date="1550972695800" expanded="true" signature="297:964" ph="{...}" />
-                <marker date="1550972695800" expanded="true" signature="408:460" ph="{...}" />
-                <marker date="1550972695800" expanded="true" signature="693:790" ph="{...}" />
-                <marker date="1550972695800" expanded="true" signature="839:958" ph="{...}" />
+                <marker date="1550979786105" expanded="false" signature="6:204" ph="..." />
+                <marker date="1550979786105" expanded="true" signature="249:999" ph="{...}" />
+                <marker date="1550979786105" expanded="true" signature="297:997" ph="{...}" />
+                <marker date="1550979786105" expanded="true" signature="408:460" ph="{...}" />
+                <marker date="1550979786105" expanded="true" signature="693:790" ph="{...}" />
+                <marker date="1550979786105" expanded="true" signature="844:991" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -184,12 +185,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>GetAllUserSearcheses</find>
+      <find>ca</find>
     </findStrings>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ModelsLogic/IModelLogic/ISearchedFoodLogic.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Int20HProject/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Int20HProject/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/SearchedFoodResult.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/NutritionApiRequests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelsLogic/IModelLogic/INutritionApi.cs" root0="FORCE_HIGHLIGHTING" />
@@ -197,12 +198,13 @@
     <setting file="file://$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/SearchedFoodLogic.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelsLogic/HelpClasses/NutritionApiResponse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelsLogic/IModelLogic/IUserSearchesLogic.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Int20HProject/Controllers/NutritionixApiQueriesController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/UserSearches.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/UserInfoLogic.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ModelsLogic/IModelLogic/IUserInfoLogic.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/UserInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/TeencyBarkerContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Int20HProject/Model/AllInformationAboutPFC.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Int20HProject/Model/CcalPerDay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Int20HProject/Model/DataPerDay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/UnitTest1.cs" root0="SKIP_HIGHLIGHTING" />
@@ -237,16 +239,18 @@
         <option value="$PROJECT_DIR$/ModelsLogic/IModelLogic/INutritionApi.cs" />
         <option value="$PROJECT_DIR$/Int20HProject/Controllers/NutritionixApiQueries.cs" />
         <option value="$PROJECT_DIR$/Int20HProject/Startup.cs" />
-        <option value="$PROJECT_DIR$/ModelsLogic/IModelLogic/ISearchedFoodLogic.cs" />
-        <option value="$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/SearchedFoodLogic.cs" />
         <option value="$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/UserSearchesLogic.cs" />
         <option value="$PROJECT_DIR$/ModelsLogic/IModelLogic/IUserSearchesLogic.cs" />
         <option value="$PROJECT_DIR$/Int20HProject/Model/Class1.cs" />
         <option value="$PROJECT_DIR$/Int20HProject/Model/DataPerDay.cs" />
-        <option value="$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/UserInfoLogic.cs" />
         <option value="$PROJECT_DIR$/ModelsLogic/IModelLogic/IUserInfoLogic.cs" />
-        <option value="$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs" />
+        <option value="$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/UserInfoLogic.cs" />
         <option value="$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/NutritionApiRequests.cs" />
+        <option value="$PROJECT_DIR$/Int20HProject/Model/CcalPerDay.cs" />
+        <option value="$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/SearchedFoodLogic.cs" />
+        <option value="$PROJECT_DIR$/ModelsLogic/IModelLogic/ISearchedFoodLogic.cs" />
+        <option value="$PROJECT_DIR$/Int20HProject/Model/GetAllInformationAboutPFC.cs" />
+        <option value="$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs" />
       </list>
     </option>
   </component>
@@ -364,12 +368,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550929319205</updated>
-      <workItem from="1550929320427" duration="29961000" />
+      <workItem from="1550929320427" duration="33451000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29961000" />
+    <option name="totallyTimeSpent" value="33451000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -387,7 +391,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" weight="0.32996207" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -395,14 +399,14 @@
       <window_info anchor="bottom" id="Unit Tests" />
       <window_info anchor="bottom" id="REST Client" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.077852346" side_tool="true" weight="0.32996207" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Performance Profiler" />
       <window_info anchor="bottom" id="Build" weight="0.32996207" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32996207" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.30720606" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32996207" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.92214763" weight="0.30720606" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -457,78 +461,78 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs</url>
-          <line>29</line>
+          <line>31</line>
           <properties documentPath="$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs" initialLine="29">
             <startOffsets>
-              <option value="1072" />
+              <option value="1125" />
             </startOffsets>
             <endOffsets>
-              <option value="1137" />
+              <option value="1190" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs</url>
-          <line>31</line>
+          <line>33</line>
           <properties documentPath="$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs" initialLine="31">
             <startOffsets>
-              <option value="1258" />
+              <option value="1311" />
             </startOffsets>
             <endOffsets>
-              <option value="1331" />
+              <option value="1387" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs</url>
-          <line>30</line>
+          <line>32</line>
           <properties documentPath="$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs" initialLine="30">
             <startOffsets>
-              <option value="1150" />
+              <option value="1203" />
             </startOffsets>
             <endOffsets>
-              <option value="1233" />
+              <option value="1286" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs</url>
-          <line>32</line>
+          <line>34</line>
           <properties documentPath="$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs" initialLine="32">
             <startOffsets>
-              <option value="1344" />
+              <option value="1400" />
             </startOffsets>
             <endOffsets>
-              <option value="1634" />
+              <option value="1690" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs</url>
-          <line>42</line>
+          <line>44</line>
           <properties documentPath="$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs" initialLine="42">
             <startOffsets>
-              <option value="1888" />
+              <option value="1934" />
             </startOffsets>
             <endOffsets>
-              <option value="1889" />
+              <option value="1935" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs</url>
-          <line>43</line>
+          <line>45</line>
           <properties documentPath="$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs" initialLine="43">
             <startOffsets>
-              <option value="1902" />
+              <option value="1954" />
             </startOffsets>
             <endOffsets>
-              <option value="2106" />
+              <option value="2158" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="19" />
@@ -577,19 +581,6 @@
             <marker date="1550943818567" expanded="true" signature="43:149" ph="{...}" />
             <marker date="1550943818567" expanded="true" signature="72:147" ph="{...}" />
             <marker date="1550943818567" expanded="true" signature="121:141" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Int20HProject/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <marker date="1550927595616" expanded="false" signature="6:255" ph="..." />
-            <marker date="1550927595616" expanded="true" signature="280:607" ph="{...}" />
-            <marker date="1550927595616" expanded="true" signature="307:605" ph="{...}" />
-            <marker date="1550927595616" expanded="true" signature="360:434" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -674,24 +665,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Int20HProject/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
-          <folding>
-            <marker date="1550964450484" expanded="false" signature="6:542" ph="..." />
-            <marker date="1550964450484" expanded="true" signature="567:2394" ph="{...}" />
-            <marker date="1550964450484" expanded="true" signature="594:2392" ph="{...}" />
-            <marker date="1550964450484" expanded="true" signature="656:897" ph="{...}" />
-            <marker date="1550964450484" expanded="true" signature="1124:1778" ph="{...}" />
-            <marker date="1550964450484" expanded="true" signature="1278:1460" ph="{...}" />
-            <marker date="1550964450484" expanded="true" signature="1966:2386" ph="{...}" />
-            <marker date="1550964450484" expanded="true" signature="2013:2090" ph="{...}" />
-            <marker date="1550964450484" expanded="true" signature="2107:2310" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Int20HProject/DbConnection.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -703,30 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding>
-            <marker date="1550927595645" expanded="false" signature="6:128" ph="..." />
-            <marker date="1550927595645" expanded="true" signature="165:975" ph="{...}" />
-            <marker date="1550927595645" expanded="true" signature="270:973" ph="{...}" />
-            <marker date="1550927595645" expanded="true" signature="375:451" ph="{...}" />
-            <marker date="1550927595645" expanded="true" signature="554:602" ph="{...}" />
-            <marker date="1550927595645" expanded="true" signature="699:719" ph="{...}" />
-            <marker date="1550927595645" expanded="true" signature="831:851" ph="{...}" />
-            <marker date="1550927595645" expanded="true" signature="947:967" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Int20HProject/Controllers/NutritionixApiQueriesController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="16" />
-          <folding>
-            <marker date="1550962697810" expanded="false" signature="6:128" ph="..." />
-            <marker date="1550962697810" expanded="true" signature="165:690" ph="{...}" />
-            <marker date="1550962697810" expanded="true" signature="266:688" ph="{...}" />
-            <marker date="1550962697810" expanded="true" signature="402:464" ph="{...}" />
-            <marker date="1550962697810" expanded="true" signature="562:681" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -742,18 +691,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Models/SearchedFoodResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding>
-            <marker date="1550956636439" expanded="false" signature="6:106" ph="..." />
-            <marker date="1550956636439" expanded="true" signature="124:1019" ph="{...}" />
-            <marker date="1550956636439" expanded="true" signature="198:1017" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Models/UserInfo.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -765,33 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/UserInfoLogic.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="47" />
-          <folding>
-            <marker date="1550972695800" expanded="false" signature="6:204" ph="..." />
-            <marker date="1550972695800" expanded="true" signature="249:966" ph="{...}" />
-            <marker date="1550972695800" expanded="true" signature="297:964" ph="{...}" />
-            <marker date="1550972695800" expanded="true" signature="408:460" ph="{...}" />
-            <marker date="1550972695800" expanded="true" signature="693:790" ph="{...}" />
-            <marker date="1550972695800" expanded="true" signature="839:958" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ModelsLogic/IModelLogic/IUserInfoLogic.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-          <folding>
-            <marker date="1550972695821" expanded="false" signature="6:77" ph="..." />
-            <marker date="1550972695821" expanded="true" signature="112:330" ph="{...}" />
-            <marker date="1550972695821" expanded="true" signature="150:328" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ModelsLogic/IModelLogic/INutritionApi.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -799,41 +709,6 @@
           <folding>
             <marker date="1550962637651" expanded="true" signature="64:185" ph="{...}" />
             <marker date="1550962637651" expanded="true" signature="101:183" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/SearchedFoodLogic.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-          <folding>
-            <marker date="1550968769170" expanded="false" signature="6:218" ph="..." />
-            <marker date="1550968769170" expanded="true" signature="263:2092" ph="{...}" />
-            <marker date="1550968769170" expanded="true" signature="319:2090" ph="{...}" />
-            <marker date="1550968769170" expanded="true" signature="443:495" ph="{...}" />
-            <marker date="1550968769170" expanded="true" signature="730:884" ph="{...}" />
-            <marker date="1550968769170" expanded="true" signature="971:2084" ph="{...}" />
-            <marker date="1550968769170" expanded="true" signature="1097:1194" ph="{...}" />
-            <marker date="1550968769170" expanded="true" signature="1235:1984" ph="{...}" />
-            <marker date="1550968769170" expanded="true" signature="1308:1966" ph="{...}" />
-            <marker date="1550968769170" expanded="true" signature="2001:2058" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/UserSearchesLogic.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
-          <folding>
-            <marker date="1550971386909" expanded="false" signature="6:204" ph="..." />
-            <marker date="1550971386909" expanded="true" signature="249:1518" ph="{...}" />
-            <marker date="1550971386909" expanded="true" signature="305:1516" ph="{...}" />
-            <marker date="1550971386909" expanded="true" signature="429:481" ph="{...}" />
-            <marker date="1550971386909" expanded="true" signature="688:1050" ph="{...}" />
-            <marker date="1550971386909" expanded="true" signature="759:891" ph="{...}" />
-            <marker date="1550971386909" expanded="true" signature="1127:1380" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -850,18 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ModelsLogic/IModelLogic/ISearchedFoodLogic.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <marker date="1550968769149" expanded="false" signature="6:77" ph="..." />
-            <marker date="1550968769149" expanded="true" signature="112:321" ph="{...}" />
-            <marker date="1550968769149" expanded="true" signature="154:319" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Int20HProject/Model/DataPerDay.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -873,43 +736,193 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs">
+    <entry file="file://$PROJECT_DIR$/ModelsLogic/IModelLogic/IUserInfoLogic.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        <state relative-caret-position="135">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
           <folding>
-            <marker date="1550974822113" expanded="true" signature="6:133" ph="..." />
-            <marker date="1550974822113" expanded="true" signature="170:2388" ph="{...}" />
-            <marker date="1550974822113" expanded="true" signature="265:2386" ph="{...}" />
-            <marker date="1550974822113" expanded="true" signature="718:930" ph="{...}" />
-            <marker date="1550974822113" expanded="true" signature="1049:1644" ph="{...}" />
-            <marker date="1550974822113" expanded="true" signature="1378:1633" ph="{...}" />
-            <marker date="1550974822113" expanded="true" signature="1879:2141" ph="{...}" />
-            <marker date="1550974822113" expanded="true" signature="1956:2104" ph="{...}" />
-            <marker date="1550974822113" expanded="true" signature="2230:2380" ph="{...}" />
-            <marker date="1550974822113" expanded="true" signature="2337:2369" ph="{...}" />
+            <marker date="1550979786137" expanded="false" signature="6:77" ph="..." />
+            <marker date="1550979786137" expanded="true" signature="112:335" ph="{...}" />
+            <marker date="1550979786137" expanded="true" signature="150:333" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Int20HProject/Controllers/NutritionixApiQueriesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" selection-start-line="10" selection-start-column="7" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/NutritionApiRequests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-62">
-          <caret line="68" column="48" selection-start-line="68" selection-start-column="48" selection-end-line="68" selection-end-column="48" />
+        <state relative-caret-position="256">
+          <caret line="74" column="61" lean-forward="true" selection-start-line="74" selection-start-column="61" selection-end-line="74" selection-end-column="61" />
           <folding>
-            <marker date="1550975335633" expanded="false" signature="6:345" ph="..." />
-            <marker date="1550975335633" expanded="true" signature="390:4420" ph="{...}" />
-            <marker date="1550975335633" expanded="true" signature="444:4418" ph="{...}" />
-            <marker date="1550975335633" expanded="true" signature="935:1165" ph="{...}" />
-            <marker date="1550975335633" expanded="true" signature="1228:2249" ph="{...}" />
-            <marker date="1550975335633" expanded="true" signature="1312:1639" ph="{...}" />
-            <marker date="1550975335633" expanded="true" signature="2312:2418" ph="{...}" />
-            <marker date="1550975335633" expanded="true" signature="2501:4412" ph="{...}" />
-            <marker date="1550975335633" expanded="true" signature="2567:4402" ph="{...}" />
-            <marker date="1550975335633" expanded="true" signature="2798:4388" ph="{...}" />
-            <marker date="1550975335633" expanded="true" signature="2936:4370" ph="{...}" />
-            <marker date="1550975335633" expanded="true" signature="3105:4268" ph="{...}" />
-            <marker date="1550975335633" expanded="true" signature="3228:4240" ph="{...}" />
+            <marker date="1550980203218" expanded="false" signature="6:345" ph="..." />
+            <marker date="1550980203218" expanded="true" signature="390:4486" ph="{...}" />
+            <marker date="1550980203218" expanded="true" signature="444:4484" ph="{...}" />
+            <marker date="1550980203218" expanded="true" signature="935:1165" ph="{...}" />
+            <marker date="1550980203218" expanded="true" signature="1228:2249" ph="{...}" />
+            <marker date="1550980203218" expanded="true" signature="1312:1639" ph="{...}" />
+            <marker date="1550980203218" expanded="true" signature="2312:2418" ph="{...}" />
+            <marker date="1550980203218" expanded="true" signature="2501:4478" ph="{...}" />
+            <marker date="1550980203218" expanded="true" signature="2567:4468" ph="{...}" />
+            <marker date="1550980203218" expanded="true" signature="2798:4454" ph="{...}" />
+            <marker date="1550980203218" expanded="true" signature="2936:4436" ph="{...}" />
+            <marker date="1550980203218" expanded="true" signature="3105:4334" ph="{...}" />
+            <marker date="1550980203218" expanded="true" signature="3228:4306" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/SearchedFoodResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <marker date="1550956636439" expanded="false" signature="6:106" ph="..." />
+            <marker date="1550956636439" expanded="true" signature="124:1019" ph="{...}" />
+            <marker date="1550956636439" expanded="true" signature="198:1017" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Int20HProject/Model/CcalPerDay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <marker date="1550980488393" expanded="true" signature="29:159" ph="{...}" />
+            <marker date="1550980488393" expanded="true" signature="59:157" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/UserInfoLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding>
+            <marker date="1550979786105" expanded="false" signature="6:204" ph="..." />
+            <marker date="1550979786105" expanded="true" signature="249:999" ph="{...}" />
+            <marker date="1550979786105" expanded="true" signature="297:997" ph="{...}" />
+            <marker date="1550979786105" expanded="true" signature="408:460" ph="{...}" />
+            <marker date="1550979786105" expanded="true" signature="693:790" ph="{...}" />
+            <marker date="1550979786105" expanded="true" signature="844:991" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/SearchedFoodLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="54" column="15" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="94" />
+          <folding>
+            <marker date="1550980858307" expanded="false" signature="6:218" ph="..." />
+            <marker date="1550980858307" expanded="true" signature="263:2311" ph="{...}" />
+            <marker date="1550980858307" expanded="true" signature="319:2309" ph="{...}" />
+            <marker date="1550980858307" expanded="true" signature="443:495" ph="{...}" />
+            <marker date="1550980858307" expanded="true" signature="730:884" ph="{...}" />
+            <marker date="1550980858307" expanded="true" signature="974:1941" ph="{...}" />
+            <marker date="1550980858307" expanded="true" signature="1092:1841" ph="{...}" />
+            <marker date="1550980858307" expanded="true" signature="1165:1823" ph="{...}" />
+            <marker date="1550980858307" expanded="true" signature="1858:1915" ph="{...}" />
+            <marker date="1550980858307" expanded="true" signature="2037:2303" ph="{...}" />
+            <marker date="1550980858307" expanded="true" signature="2163:2260" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelsLogic/IModelLogic/ISearchedFoodLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="88" selection-start-line="10" selection-start-column="88" selection-end-line="10" selection-end-column="88" />
+          <folding>
+            <marker date="1550980858286" expanded="false" signature="6:77" ph="..." />
+            <marker date="1550980858286" expanded="true" signature="112:413" ph="{...}" />
+            <marker date="1550980858286" expanded="true" signature="154:411" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Int20HProject/Model/AllInformationAboutPFC.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding>
+            <marker date="1550982211087" expanded="true" signature="29:261" ph="{...}" />
+            <marker date="1550982211087" expanded="true" signature="71:259" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Int20HProject/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1550927595616" expanded="false" signature="6:255" ph="..." />
+            <marker date="1550927595616" expanded="true" signature="280:607" ph="{...}" />
+            <marker date="1550927595616" expanded="true" signature="307:605" ph="{...}" />
+            <marker date="1550927595616" expanded="true" signature="360:434" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Int20HProject/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+          <folding>
+            <marker date="1550964450484" expanded="false" signature="6:542" ph="..." />
+            <marker date="1550964450484" expanded="true" signature="567:2394" ph="{...}" />
+            <marker date="1550964450484" expanded="true" signature="594:2392" ph="{...}" />
+            <marker date="1550964450484" expanded="true" signature="656:897" ph="{...}" />
+            <marker date="1550964450484" expanded="true" signature="1124:1778" ph="{...}" />
+            <marker date="1550964450484" expanded="true" signature="1278:1460" ph="{...}" />
+            <marker date="1550964450484" expanded="true" signature="1966:2386" ph="{...}" />
+            <marker date="1550964450484" expanded="true" signature="2013:2090" ph="{...}" />
+            <marker date="1550964450484" expanded="true" signature="2107:2310" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelsLogic/ModelLogicRealization/UserSearchesLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
+          <folding>
+            <marker date="1550971386909" expanded="false" signature="6:204" ph="..." />
+            <marker date="1550971386909" expanded="true" signature="249:1518" ph="{...}" />
+            <marker date="1550971386909" expanded="true" signature="305:1516" ph="{...}" />
+            <marker date="1550971386909" expanded="true" signature="429:481" ph="{...}" />
+            <marker date="1550971386909" expanded="true" signature="688:1050" ph="{...}" />
+            <marker date="1550971386909" expanded="true" signature="759:891" ph="{...}" />
+            <marker date="1550971386909" expanded="true" signature="1127:1380" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Int20HProject/Controllers/UserInfoController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-335">
+          <caret line="29" column="67" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="67" />
+          <folding>
+            <marker date="1550982656464" expanded="true" signature="6:186" ph="..." />
+            <marker date="1550982656464" expanded="true" signature="223:3225" ph="{...}" />
+            <marker date="1550982656464" expanded="true" signature="318:3223" ph="{...}" />
+            <marker date="1550982656464" expanded="true" signature="771:983" ph="{...}" />
+            <marker date="1550982656464" expanded="true" signature="1102:1700" ph="{...}" />
+            <marker date="1550982656464" expanded="true" signature="1434:1689" ph="{...}" />
+            <marker date="1550982656464" expanded="true" signature="1925:2180" ph="{...}" />
+            <marker date="1550982656464" expanded="true" signature="2008:2156" ph="{...}" />
+            <marker date="1550982656464" expanded="true" signature="2263:2462" ph="{...}" />
+            <marker date="1550982656464" expanded="true" signature="2556:2770" ph="{...}" />
+            <marker date="1550982656464" expanded="true" signature="2663:2749" ph="{...}" />
+            <marker date="1550982656464" expanded="true" signature="2870:3207" ph="{...}" />
+            <marker date="1550982656464" expanded="true" signature="2994:3186" ph="{...}" />
           </folding>
         </state>
       </provider>

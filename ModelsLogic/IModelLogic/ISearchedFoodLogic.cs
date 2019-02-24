@@ -7,6 +7,7 @@ namespace ModelsLogic.IModelLogic
     public interface ISearchedFoodLogic
     {
         Task AddSearchedFoodList(List<SearchedFoodResult> searchedFood);
-        SearchedFoodResult GetResultsForDay(List<UserSearches> userSearcheses);
+        SearchedFoodResult GetMaxResultsForDay(List<UserSearches> userSearcheses);
+        List<SearchedFoodResult> GetAllResultsPerDay(List<UserSearches> userSearcheses);
     }
 }

@@ -8,7 +8,7 @@ namespace ModelsLogic.IModelLogic
     {
         IEnumerable<UserInfo> GetAllUsers();
         bool IsUserWithExist(int userId);
-        Task AddUser(UserInfo user);
+        Task<int> AddUser(UserInfo user);
         UserInfo GetUserById(int userId);
     }
 }

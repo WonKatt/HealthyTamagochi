@@ -27,10 +27,11 @@ namespace ModelsLogic.ModelLogicRealization
         {
             return  GetAllUsers().FirstOrDefault(user => user.Id == userId);
         }
-        public async Task AddUser(UserInfo user)
+        public async Task<int> AddUser(UserInfo user)
         {
             await _context.UserInfo.AddAsync(user);
             await _context.SaveChangesAsync();
+            return user.Id;
         }
     }
 }

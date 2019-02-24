@@ -12,9 +12,7 @@
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include">
-          <e p="NutritionixApiQueriesController.cs" t="Include" />
           <e p="UserInfoController.cs" t="Include" />
-          <e p="ValuesController.cs" t="Include" />
         </e>
         <e p="DbConnection.json" t="Include" />
         <e p="Int20HProject.csproj" t="IncludeRecursive" />
@@ -38,6 +36,8 @@
           <e p="TeencyBarkerContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="Model" t="Include">
+          <e p="AllInformationAboutPFC.cs" t="Include" />
+          <e p="CcalPerDay.cs" t="Include" />
           <e p="DataPerDay.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
